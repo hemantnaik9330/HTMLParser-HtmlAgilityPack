@@ -1,0 +1,11 @@
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\bin\Debug\HTMLParser-HtmlAgilityPack.exe.config
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\bin\Debug\HTMLParser-HtmlAgilityPack.exe
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\bin\Debug\HTMLParser-HtmlAgilityPack.pdb
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\bin\Debug\HtmlAgilityPack.dll
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\bin\Debug\HtmlAgilityPack.pdb
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\bin\Debug\HtmlAgilityPack.xml
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\obj\Debug\HTMLParser-HtmlAgilityPack.csprojAssemblyReference.cache
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\obj\Debug\HTMLParser-HtmlAgilityPack.csproj.CoreCompileInputs.cache
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\obj\Debug\HTMLParser-HtmlAgilityPack.csproj.CopyComplete
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\obj\Debug\HTMLParser-HtmlAgilityPack.exe
+C:\repo\Hackathon2021\Hackathon\HTMLParser-HtmlAgilityPack\obj\Debug\HTMLParser-HtmlAgilityPack.pdb
